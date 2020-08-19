@@ -1,0 +1,8 @@
+C:\Users\Mehdi\Desktop\Internship Project\Test\PowerPointManipulationConsole\PowerPointManipulationConsole\bin\Debug\PowerPointManipulationConsole.exe.config
+C:\Users\Mehdi\Desktop\Internship Project\Test\PowerPointManipulationConsole\PowerPointManipulationConsole\bin\Debug\PowerPointManipulationConsole.exe
+C:\Users\Mehdi\Desktop\Internship Project\Test\PowerPointManipulationConsole\PowerPointManipulationConsole\bin\Debug\PowerPointManipulationConsole.pdb
+C:\Users\Mehdi\Desktop\Internship Project\Test\PowerPointManipulationConsole\PowerPointManipulationConsole\obj\Debug\PowerPointManipulationConsole.csprojAssemblyReference.cache
+C:\Users\Mehdi\Desktop\Internship Project\Test\PowerPointManipulationConsole\PowerPointManipulationConsole\obj\Debug\PowerPointManipulationConsole.csproj.ResolveComReference.cache
+C:\Users\Mehdi\Desktop\Internship Project\Test\PowerPointManipulationConsole\PowerPointManipulationConsole\obj\Debug\PowerPointManipulationConsole.csproj.CoreCompileInputs.cache
+C:\Users\Mehdi\Desktop\Internship Project\Test\PowerPointManipulationConsole\PowerPointManipulationConsole\obj\Debug\PowerPointManipulationConsole.exe
+C:\Users\Mehdi\Desktop\Internship Project\Test\PowerPointManipulationConsole\PowerPointManipulationConsole\obj\Debug\PowerPointManipulationConsole.pdb
